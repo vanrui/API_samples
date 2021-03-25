@@ -1,6 +1,6 @@
-var modelId = "offlinemodel";
+var modelId = "5ro3GWrL";
 //可自定义模型Id
- appToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTUzLCJ1c2VybmFtZSI6Ik1vZGVsbyIsImlzUGVybWFuZW50Ijp0cnVlLCJpYXQiOjE1Njc1NjI0MTksImV4cCI6MzMxMDM1NjI0MTl9.EbW_cSPca4kWLedgNtfrGguog_o-3CCM5WhM7fFi0GA"
+ appToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NDY3LCJ1c2VybmFtZSI6IndhbnJ1aXpoaW5lbmciLCJpc1Blcm1hbmVudCI6dHJ1ZSwiaWF0IjoxNjE2NDE3NDE2LCJleHAiOjMzMTUyNDE3NDE2fQ.4i7AImgHG_qNwemawpzzqZgYWN-KV28JtyadJoHjLek"
 
 Modelo.init({ endpoint: "https://build-portal.modeloapp.com", appToken });
 
